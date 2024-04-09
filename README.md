@@ -18,22 +18,29 @@
 - 👯 I’m looking to learn devops technologies and its future updates.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - ⚡ Fun fact: I love Coding, music and learning.
-<br>
+  <br>
 
-  <details>
+---
+
+<details>
 
 <summary>
   ✨ Tech stack currently using:
 </summary>
    <br>
 
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a> </code>
 
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 
 <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 
+<code><a href="https://aws.amazon.com/free/?trk=16847e0c-46fb-467d-91ee-6e259e339665&sc_channel=ps&s_kwcid=AL!4422!10!71056165983499!71056716413948&ef_id=98832ccf905a193c10264adaa307831b:G:s&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+
+<code><a href="https://www.jenkins.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
+
+<code><a href="https://kubernetes.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
+
 </details>
-<br>
