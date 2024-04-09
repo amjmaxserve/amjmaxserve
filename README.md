@@ -10,3 +10,12 @@
   <br>
   <b><i>"---Always Work smart and Trust the Process---"</i></b>
 </p>
+
+<h3>Little facts about me 🧑</h3>
+
+- 🧞 I'm a Tech Enthusiast since childhood.
+- 🔭 I’m currently working as Devops Engineer, Transight System pvt Ltd.
+- 👯 I’m looking to learn devops technologies and its future updates.
+- 💡 Contributing to Open Source Projects is always been a goal to me.
+- ⚡ Fun fact: I love Coding, music and learning.
+  <br>
